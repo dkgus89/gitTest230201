@@ -7,13 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>test1.jsp</h1>
-<h2>git edit</h2>
-
-<h2>eclipse update</h2>
-
-<h2>git update</h2>
-
-hello hello
+tset2.jsp
 </body>
 </html>
